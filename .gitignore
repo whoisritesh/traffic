@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.py[cod]
+dataset/
+runs/
+sample_videos/
+outputs/
+*.zip
+yolov8n.pt
+.env
+.vscode/
+.DS_Store
+Thumbs.db
