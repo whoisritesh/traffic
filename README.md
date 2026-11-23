@@ -16,3 +16,6 @@ Real-time motorcycle rider helmet detection (`With Helmet` vs `Without Helmet`) 
 
 ## Acknowledgements
 Special thanks to trainer **Upender Muthyala** for guidance and support throughout this project.
+
+## ?? Demo Output
+- [Watch / Download Annotated Detection Video](outputs/helmet_detected.mp4)
